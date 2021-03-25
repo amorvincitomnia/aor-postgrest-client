@@ -1,4 +1,4 @@
-import { queryParameters, fetchJson } from 'ra-core/lib/util/fetch';
+import { queryParameters, fetchJson } from './lib/fetch';
 import {
   GET_LIST,
   GET_ONE,
